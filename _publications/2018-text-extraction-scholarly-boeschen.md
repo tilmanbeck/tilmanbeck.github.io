@@ -1,0 +1,10 @@
+---
+title: 'Survey and empirical comparison of different approaches for text extraction from scholarly figures'
+collection: publications
+authors: 'Falk Böschen, Tilman Beck, Ansgar Scherp'
+abstract: 'Different approaches have been proposed in the past to address the challenge of extracting text from scholarly figures. However, until recently, no comparative evaluation of the different approaches had been conducted. Thus, we performed an extensive study of the related work and evaluated in total 32 different approaches. In this work, we perform a more detailed comparison of the 7 most relevant approaches described in the literature and extend to 37 systematic linear combinations of methods for extracting text from scholarly figures. Our generic pipeline, consisting of six steps, allows us to freely combine the different possible methods and perform a fair comparison. Overall, we have evaluated 44 different linear pipeline configurations and systematically compared the different methods. We then derived two non-linear configurations and a two-pass approach. We evaluate all pipeline configurations over four datasets of scholarly figures of different origin and characteristics. The quality of the extraction results is assessed using F-measure and Levenshtein distance, and we measure the runtime performance. Our experiments showed that there is a linear configuration that overall shows the best text extraction quality on all datasets. Further experiments showed that the best configuration can be improved by extending it to a two-pass approach. Regarding the runtime, we observed huge differences from very fast approaches to those running for several weeks. Our experiments found the best working configuration for text extraction from our method set. However, they also showed that further improvements regarding region extraction and classification are needed.'
+date: 2018-10-01
+venue: 'Multimedia Tools and Applications'
+url: 'https://link.springer.com/article/10.1007%2Fs11042-018-6162-7'
+---
+
