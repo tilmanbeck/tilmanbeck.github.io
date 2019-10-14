@@ -14,6 +14,7 @@ Education
 * Doctoral Candidate UKP, Technische Universität Darmstadt, since 2019
 * M.Sc. Computer Science, Christian-Albrechts Universität Kiel, Germany, 2018
 * B.Sc. Computer Science, Friedrich-Alexander Universität Erlangen, Germany, 2014
+* ERASMUS Semester, Budapest University of Technology and Economics, Hungary, 2013 
 
 Work experience
 ======
